@@ -1,7 +1,6 @@
 package blatt5;
 
 import java.util.UUID;
-
 import disy.Message;
 import disy.Process;
 
